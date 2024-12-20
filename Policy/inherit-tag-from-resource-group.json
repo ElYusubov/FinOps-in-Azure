@@ -1,6 +1,6 @@
 {
     "properties": {
-      "displayName": "Inherit a tag from the resource group",
+      "displayName": "Inherit an Environment tag from the resource group",
       "policyType": "BuiltIn",
       "mode": "Indexed",
       "description": "Adds or replaces the specified tag and value from the parent resource group when any resource is created or updated. Existing resources can be remediated by triggering a remediation task.",
@@ -14,7 +14,7 @@
           "type": "String",
           "metadata": {
             "displayName": "Tag Name",
-            "description": "Name of the tag, such as 'environment'"
+            "description": "Environment"
           }
         }
       },
