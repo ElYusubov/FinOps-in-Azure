@@ -19,3 +19,5 @@ By the end of this session, you will have a good understanding of FinOps and be 
 Moreover, you will learn about Azure Bicep, an IaC language in Azure that can help you automate budget creation across subscriptions.
 
 You can watch the live session 👇👇
+
+[<img src="./FinOps-in-Azure-session-Dec-2024.png" width="25%">](https://youtu.be/0xlpUtJ72iw?si=41PHEDEaDVsg_NTj "Unlocking Cloud Savings with Santa's FinOps Workshop!")
