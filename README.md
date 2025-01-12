@@ -1,8 +1,8 @@
-# FinOps-in-Azure
+# Cloud FinOps with demos in Azure
 
 ## Unlocking Cloud Savings with Santa's FinOps Workshop! 🎅
 ## Did you miss our session on Cloud 💲 Savings with Santa's 🚀 FinOps workshop ⁉️ 🤔
-#### This repo will contain artifacts from a Festive-Tech Calendar 2024 session
+#### This repo contains artifacts from a Festive-Tech Calendar 2024 session's event
 
 In this session, we have delved into the secrets of FinOps + Azure:
 ✅ How to standardize and allocate cloud costs 
